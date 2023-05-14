@@ -1,3 +1,4 @@
+// This solution was modified to incorporate the general case 
 #include <iterator>
 #include <algorithm>
 #include<iostream>
